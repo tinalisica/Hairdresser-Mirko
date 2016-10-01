@@ -16,3 +16,30 @@ nav p {
     height: 200px;
     width: 280px;
 }
+
+.container {
+    text-align: center;
+}
+
+.input[type="text"] {
+    width: 200px;
+    border: 1px solid black;
+}
+
+.center {
+    text-align: center;
+}
+
+.input-style {
+    width: 330px;
+    height: 30px;
+}
+
+.input-style-big {
+    width: 330px;
+    height: 130px;
+}
+
+.word-wrap {
+    word-wrap: break-word;
+}
