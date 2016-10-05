@@ -43,3 +43,28 @@ nav p {
 .word-wrap {
     word-wrap: break-word;
 }
+
+table, td {
+    border: 1px solid black;
+    padding: 8px 30px;
+}
+
+.centertext {
+    text-align: center;
+}
+
+thead {
+    background-color: beige;
+}
+
+.text-left {
+    text-align: left;
+}
+
+h2 {
+    text-align: center;
+}
+
+.margin-top-nav {
+    margin-top: 30px;
+}
